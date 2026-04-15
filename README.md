@@ -1,2 +1,2 @@
-# pythonproyecto2
-# Elaborado por Luis Zavalaga Rodrigo
+# Proyecto 2
+# Elaborado  por Luis Zavalaga Rodrigo
