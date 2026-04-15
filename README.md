@@ -1,2 +1,2 @@
 # Proyecto 2
-# Elaborado  por Luis Zavalaga Rodrigo
+#  Proyecto de Web Scraping elaborado  por Luis Zavalaga Rodrigo
